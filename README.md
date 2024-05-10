@@ -1,6 +1,6 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-![Demo App](https://shaun-gc.onrender.com)
+![Demo App](https://shaun-gc.onrender.com/login)
 
 Some Features:
 
